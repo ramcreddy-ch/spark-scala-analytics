@@ -14,3 +14,5 @@
 - Clean up temporary files (2018-7-11 14:75:00)
 - Config update (2018-1-8 13:35:00)
 
+- Performance tuning (2018-1-14 9:31:00)
+
