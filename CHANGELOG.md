@@ -32,3 +32,5 @@
 
 - Security checks (2018-7-14 10:38:00)
 
+- Code cleanup (2018-8-12 12:23:00)
+
