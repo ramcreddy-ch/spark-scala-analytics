@@ -4,3 +4,4 @@
 - Fix minor typos (2018-4-5 15:30:00)
 - Update dependencies (2018-6-14 12:40:00)
 - Add inline comments for clarity (2018-6-12 9:50:00)
+- Enhance error handling (2018-10-14 12:05:00)
